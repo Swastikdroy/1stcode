@@ -1,6 +1,7 @@
 This is my 1st time using github
 i started this 1st git 
-from my father's 20 year lenovo 3000 g410 laptop
+from my father's 20 year old lenovo 3000 g410 laptop
+which is my only piece that reminds me of my father and his undying passion
 whose specs might not fascinate the minds of someone
 but anyways 
 CPU -Intel Pentium Dual Core CPU 1.09 Ghz
